@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="textviewa">TextView</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="lost_password">Lost Password?</string>
+    <string name="login_me">LOGIN ME</string>
+    <string name="todo">TODO</string>
+</resources>
